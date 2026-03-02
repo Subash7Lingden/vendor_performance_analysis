@@ -95,12 +95,11 @@ Correlation Analysis:
 6. Hypothesis Testing: Statistically significant difference in profit margins → distinct vendor strategies
 
 ## Dashboard
-
 - Power BI Dashboard shows:
-  -- Vendor-wise Sales and Margins
-  -- Inventory Turnover
-  -- Bulk Purchase Savings
-  -- Performance Heatmaps
+  - Vendor-wise Sales and Margins
+  - Inventory Turnover
+  - Bulk Purchase Savings
+  - Performance Heatmaps
   <img width="4838" height="2963" alt="vendor_performance (2)" src="https://github.com/user-attachments/assets/a0377df3-ff3b-4171-b694-6e46aeb24dac" />
 
 
