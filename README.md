@@ -101,7 +101,8 @@ Correlation Analysis:
   -- Inventory Turnover
   -- Bulk Purchase Savings
   -- Performance Heatmaps
-  vendor_performance_analysis/tree/master/images/vendor_performance (1).png
+  <img width="4838" height="2963" alt="vendor_performance (2)" src="https://github.com/user-attachments/assets/a0377df3-ff3b-4171-b694-6e46aeb24dac" />
+
 
 ## How to Run This Project
 Clone the repository:
