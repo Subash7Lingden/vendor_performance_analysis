@@ -101,6 +101,7 @@ Correlation Analysis:
 -- Inventory Turnover
 -- Bulk Purchase Savings
 -- Performance Heatmaps
+  ![Alt Text](images/image.png)
 
 ## How to Run This Project
 Clone the repository:
