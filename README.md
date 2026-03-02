@@ -97,11 +97,11 @@ Correlation Analysis:
 ## Dashboard
 
 - Power BI Dashboard shows:
--- Vendor-wise Sales and Margins
--- Inventory Turnover
--- Bulk Purchase Savings
--- Performance Heatmaps
-  ![Alt Text](images/image.png)
+  -- Vendor-wise Sales and Margins
+  -- Inventory Turnover
+  -- Bulk Purchase Savings
+  -- Performance Heatmaps
+  ![Alt Text](images/vendor_performance (1).png)
 
 ## How to Run This Project
 Clone the repository:
