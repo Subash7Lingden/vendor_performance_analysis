@@ -129,7 +129,7 @@ Open Power BI Dashboard:
 
 ## Author & Contact
 Data Analyst
-- [Email](subashsubbalingden@gmail.com)
+- [Email](subashsubbalingden@gmail.com): subashsubbalingden@gmail.com
 - [linkedin](https://www.linkedin.com/in/subashkumarlingden/)
 - [My Portfolio](https://subash7lingden.github.io/SubashKumarLingdenportfolio/)
 
